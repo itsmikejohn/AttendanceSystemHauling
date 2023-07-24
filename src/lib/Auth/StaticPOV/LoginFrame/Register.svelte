@@ -96,7 +96,7 @@
 </script>
 
 
-<main class="mx-auto sm:max-w-[450px]  mt-[15vh] sm:mt-[20vh] p-2 sm:p-0" in:scale>
+<main class="mx-auto sm:max-w-[450px]  mt-[5vh] sm:mt-[20vh] p-2 sm:p-0" in:scale>
     <section class="border-[0.1rem] border-black min-h-[10vh] p-4 flex flex-col gap-2 bg-gradient-to-r from-blue-400 to-blue-800">
 
         <p class="text-center font-semibold bg-gradient-to-tr from-blue-800 to-pink-600 px-2 py-1 text-white">Registration</p>
