@@ -55,7 +55,7 @@
 </script>
 
 <section class="flex">
-    <input type="text" placeholder="🔍 Search by fullname" class="w-full px-2 py-1 border-[0.1rem] border-black focus:outline-none" 
+    <input type="text" placeholder="🔍 Search by email" class="w-full px-2 py-1 border-[0.1rem] border-black focus:outline-none" 
     on:keyup={keyDetect}
     on:focus={keyDetect}
     bind:value={dsComp.searchValue}/>
