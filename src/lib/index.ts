@@ -51,5 +51,7 @@ export const staticState = writable({
 
 export const adminKeyProvider = writable(["2DCCKaA50zfU0SjKVxCov9DQlsM2"]);
 
+//www.youtube.com/@mikeSharesCode
+
 
 
